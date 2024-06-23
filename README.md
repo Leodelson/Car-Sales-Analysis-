@@ -41,3 +41,6 @@ The insights could help car dealerships optimize their marketing strategies, foc
 
 # Conclusion
 This dashboard provides a holistic view of car sales, integrating critical demographic and behavioral data. It serves as a valuable tool for understanding customer profiles and making data-driven decisions to improve sales and customer satisfaction.
+
+# Tools Used
+Microsoft Excel
