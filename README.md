@@ -9,7 +9,8 @@ The Car Sales Dashboard provides a comprehensive analysis of customer demographi
 Allows filtering the data by Married or Single customers.
 ### Region
 Filters the data based on the geographical region (Europe, North America, Pacific).
-Education Level: Allows filtering by educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
+### Education Level
+Allows filtering by educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
 
 # Key Insights
 
