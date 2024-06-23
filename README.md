@@ -1,32 +1,27 @@
 # Car Sales Analysis 
-
-# Dashboard Insights and Descriptions
-
 The Car Sales Dashboard provides a comprehensive analysis of customer demographics and their purchase behavior. It highlights the relationship between marital status, region, education level, and car purchases. The visualizations offer insights into the average income per purchase, customer age brackets, and commute distances.
 
-# Filters
 ### Marital Status 
-Allows filtering the data by Married or Single customers.
+Married or Single customers.
+
 ### Region
-Filters the data based on the geographical region (Europe, North America, Pacific).
+Orders by geographical region (Europe, North America, Pacific).
+
 ### Education Level
-Allows filtering by educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
+Educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
 
 # Key Insights
 
 ## Average Income Per Purchase
 ### Gender and Purchase
-The bar chart reveals that married customers have a higher average income per purchase.
 Female customers who purchase cars have an average income of $55,774, while those who do not have an average income of $53,440.
 Male customers who purchase cars have an average income of $60,124, while those who do not have an average income of $56,208.
 
 ### Customer Age Brackets
-The line chart shows the distribution of car purchases across different age brackets.
 Middle-aged customers (31-54) are the most active group in purchasing cars, followed by the older age group (55+).
 Adolescents (0-30) are the least active in purchasing cars.
 
 ### Customer Commute
-This line chart provides insights into the commute distances of customers who purchase cars versus those who do not.
 Customers who live closer to the dealership (0-1 miles) are more likely to purchase a car.
 As the commute distance increases, the likelihood of purchasing a car decreases.
 
