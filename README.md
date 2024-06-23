@@ -1,44 +1,39 @@
-# Car-Sales-Analysis 
+# Car Sales Analysis 
 
-# Project Title: Car Sales Analysis
+# Dashboard Insights and Descriptions
 
-In this project, I undertook a comprehensive analysis of car sales data to derive meaningful insights and create an interactive dashboard using Microsoft Excel. Below are the key steps and techniques I employed:
+The Car Sales Dashboard provides a comprehensive analysis of customer demographics and their purchase behavior. It highlights the relationship between marital status, region, education level, and car purchases. The visualizations offer insights into the average income per purchase, customer age brackets, and commute distances.
 
-# Data Cleaning and Transformation
+# Filters
+Marital Status: Allows filtering the data by Married or Single customers.
+Region: Filters the data based on the geographical region (Europe, North America, Pacific).
+Education Level: Allows filtering by educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
 
-Data Import and Inspection:
-Imported raw car sales data into Excel and performed initial inspection to understand the dataset structure and identify any inconsistencies.
+# Key Insights
 
-# Handling Missing Values
-Identified missing values and used techniques such as imputation and deletion to address them, ensuring the dataset was complete and ready for analysis.
+## Average Income Per Purchase
+Gender and Purchase: The bar chart reveals that married customers have a higher average income per purchase.
+Female customers who purchase cars have an average income of $55,774, while those who do not have an average income of $53,440.
+Male customers who purchase cars have an average income of $60,124, while those who do not have an average income of $56,208.
 
-# Data Normalization
-Standardized various data fields to ensure consistency. This included converting date formats, normalizing text cases, and ensuring numerical data was appropriately formatted.
-
-# Removing Duplicates 
-Checked for and removed duplicate records to maintain data integrity.
-Data Analysis
-
-# Descriptive Statistics
- Calculated key statistics such as mean, median, and mode to summarize the central tendencies of the data.
-
-# Exploratory Data Analysis (EDA)
-Utilized pivot tables to explore different dimensions of the data, uncovering patterns and trends such as sales distribution by region, vehicle type, and sales periods.
-
-# Trend Analysis
-Analyzed sales trends over time to identify peak sales periods and patterns in consumer behavior.
-Pivot Tables and Charts
-
-# Dynamic Pivot Tables 
-Created pivot tables to dynamically slice and dice the data, allowing for flexible analysis and drill-downs into specific areas of interest.
-
-Interactive Charts: Developed various charts, including bar charts, line charts, and pie charts, to visually represent the data and highlight key insights.
-
-# Dashboard Visualization
-
-Dashboard Design: Designed a user-friendly and interactive dashboard that consolidates key metrics and visualizations, providing a holistic view of the car sales data.
-
-# Interactivity
-Incorporated interactive elements such as slicers and filters, enabling users to customize their view and interact with the data in real-time.
-
-I never underated the power of Microsoft Excel - this tool is powerful!! 📊 💕
+## Customer Age Brackets
+The line chart shows the distribution of car purchases across different age brackets.
+Middle-aged customers (31-54) are the most active group in purchasing cars, followed by the older age group (55+).
+Adolescents (0-30) are the least active in purchasing cars.
+Customer Commute
+This line chart provides insights into the commute distances of customers who purchase cars versus those who do not.
+Customers who live closer to the dealership (0-1 miles) are more likely to purchase a car.
+As the commute distance increases, the likelihood of purchasing a car decreases.
+Summary of the Most Affected Regions
+North America appears to have the highest number of car purchases, followed by Europe and the Pacific.
+The data suggests that North American customers have higher engagement with the dealership, potentially due to closer proximity or higher disposable income.
+Key Findings
+There is a clear correlation between higher average income and car purchases, indicating that more affluent customers are more likely to purchase cars.
+Middle-aged customers are the primary buyers, possibly due to greater stability in their careers and financial stability.
+The majority of customers prefer to purchase cars from dealerships closer to their residence, suggesting the need for local outreach and proximity-based marketing strategies.
+Insights into Global Trends
+The dashboard reflects general trends in car sales, where higher income and middle-aged customers dominate the market.
+Regional preferences and commute distances play a significant role in car purchasing decisions.
+The insights could help car dealerships optimize their marketing strategies, focus on high potential regions, and develop customer profiles for targeted sales approaches.
+Conclusion
+This dashboard provides a holistic view of car sales, integrating critical demographic and behavioral data. It serves as a valuable tool for understanding customer profiles and making data-driven decisions to improve sales and customer satisfaction.
