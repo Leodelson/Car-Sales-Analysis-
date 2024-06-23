@@ -1,6 +1,6 @@
-# Car-Sales-Dashboard
+# Car-Sales-Analysis 
 
-# Project Title: Car Sales Data Analysis and Visualization in Microsoft Excel:  
+# Project Title: Car Sales Analysis
 
 In this project, I undertook a comprehensive analysis of car sales data to derive meaningful insights and create an interactive dashboard using Microsoft Excel. Below are the key steps and techniques I employed:
 
