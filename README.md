@@ -4,14 +4,9 @@ The Car Sales Dashboard offers an in-depth analysis of sales performance and tre
 ![Car Sales Dashboard ](https://github.com/user-attachments/assets/b591366a-e895-49d0-93c9-4cb928ff422e)
 
 # Analysis Categories
-### Salesperson
-Performance metrics by individual salespersons.
-
-### Car Make
-Insights into sales distribution by different car manufacturers.
-
-### Car Model
-Detailed sales trends by specific car models.
+Salesperson: Performance metrics by individual salespersons.
+Car Make: Insights into sales distribution by different car manufacturers.
+Car Model: Detailed sales trends by specific car models.
 # Key Insights
 ## Total Sales
 Overall Performance:
