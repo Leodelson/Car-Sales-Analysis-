@@ -14,7 +14,7 @@ Insights into sales distribution by different car manufacturers.
 Detailed sales trends by specific car models.
 # Key Insights
 ## Total Sales
-Overall Performance
+Overall Performance:
 Total Sales: $31bn
 Average Sales: $30K
 Number of Cars Sold: 1049K
