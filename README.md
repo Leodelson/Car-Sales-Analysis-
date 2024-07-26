@@ -1,48 +1,56 @@
 # Car Sales Analysis
-The Car Sales Dashboard provides a comprehensive analysis of customer demographics and their purchase behavior. It highlights the relationship between marital status, region, education level, and car purchases. The visualizations offer insights into the average income per purchase, customer age brackets, and commute distances.## Dashboard Visualization
+The Car Sales Dashboard offers an in-depth analysis of sales performance and trends across various car models and salespersons. It provides valuable insights into total sales, average sales, commissions earned, and annual sales trends. This analysis helps to understand the performance metrics and customer purchase behavior in the car sales industry.
 ## Dashboard Visualization
-![carsales](https://github.com/user-attachments/assets/7bfb1872-863f-472c-96c9-3a5cac133a42)
+![Car Sales Dashboard ](https://github.com/user-attachments/assets/b591366a-e895-49d0-93c9-4cb928ff422e)
+
 # Analysis Categories
-### Marital Status 
-Married or Single customers.
+### Salesperson
+Performance metrics by individual salespersons.
 
-### Region
-Orders by geographical region (Europe, North America, Pacific).
+### Car Make
+Insights into sales distribution by different car manufacturers.
 
-### Education Level
-Educational attainment (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
-
+### Car Model
+Detailed sales trends by specific car models.
 # Key Insights
+## Total Sales
+### Overall Performance
+Total Sales: $31bn
+Average Sales: $30K
+Number of Cars Sold: 1049K
+Average Commission Earned: $3K
+## Commission Earned by Salespersons
+Top performers in terms of commission earned:
+Michael S.: $1.6M
+Michael J.: $1.2M
+James S.: $1.1M
+## Total Sales by Salesperson
+Leading salespersons by total sales:
 
-## Average Income Per Purchase
-### Gender and Purchase
-Female customers who purchase cars have an average income of $55,774, while those who do not have an average income of $53,440.
-Male customers who purchase cars have an average income of $60,124, while those who do not have an average income of $56,208.
+Michael S.: $16M
+Michael J.: $11M
+James S.: $10M
+# Annual Sales Trends by Car Model
+The line graph reveals fluctuating sales trends over the year, highlighting key car models such as Altima, Civic, Corolla, F-150, and Silverado.
 
-### Customer Age Brackets
-Middle-aged customers (31-54) are the most active group in purchasing cars, followed by the older age group (55+).
-Adolescents (0-30) are the least active in purchasing cars.
+## Customer Sales Summary
+A detailed summary of customer purchases, including total sales, car model, make, average commission rate, and car year. Notable entries:
 
-### Customer Commute
-Customers who live closer to the dealership (0-1 miles) are more likely to purchase a car.
-As the commute distance increases, the likelihood of purchasing a car decreases.
-
-# Summary of the Most Affected Regions
-North America appears to have the highest number of car purchases, followed by Europe and the Pacific.
-The data suggests that North American customers have higher engagement with the dealership, potentially due to closer proximity or higher disposable income.
+Aaron Acevedo: $25,846 (Ford, 8.72%)
+Aaron Acosta: $16,185 (Civic, 5.11%)
+Aaron Adams: $35,315 (Altima, 14.87%)
 
 # Key Findings
-There is a clear correlation between higher average income and car purchases, indicating that more affluent customers are more likely to purchase cars.
-Middle-aged customers are the primary buyers, possibly due to greater stability in their careers and financial stability.
-The majority of customers prefer to purchase cars from dealerships closer to their residence, suggesting the need for local outreach and proximity-based marketing strategies.
+High Sales Performance: The dashboard indicates strong sales performance with substantial contributions from top-performing salespersons.
+Sales Distribution: Significant sales are observed across different car models, with Silverado having a notable share.
+Customer Engagement: Detailed insights into customer purchases reveal preferences for certain car models and manufacturers.
 
-# Insights into Global Trends
-The dashboard reflects general trends in car sales, where higher income and middle-aged customers dominate the market.
-Regional preferences and commute distances play a significant role in car purchasing decisions.
-The insights could help car dealerships optimize their marketing strategies, focus on high potential regions, and develop customer profiles for targeted sales approaches.
+# Insights into Sales Trends
+Top Car Models: Models like Altima, Civic, and Silverado show consistent sales trends.
+Salesperson Impact: High commissions and total sales figures highlight the importance of top-performing salespersons in driving overall sales.
+Customer Preferences: Insights into customer purchase behavior and demographics can help tailor marketing strategies.
 
 # Conclusion
-This dashboard provides a holistic view of car sales, integrating critical demographic and behavioral data. It serves as a valuable tool for understanding customer profiles and making data-driven decisions to improve sales and customer satisfaction.
-
+This dashboard provides a holistic view of car sales, integrating key performance metrics and customer data. It serves as a valuable tool for understanding sales trends, salesperson performance, and customer preferences, enabling data-driven decision-making to improve sales strategies and customer satisfaction.
 # Tools Used
-Microsoft Excel
+Microsoft Power BI
