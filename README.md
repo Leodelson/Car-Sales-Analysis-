@@ -50,3 +50,5 @@ The line graph reveals fluctuating sales trends over the year, highlighting key 
 This dashboard provides a holistic view of car sales, integrating key performance metrics and customer data. It serves as a valuable tool for understanding sales trends, salesperson performance, and customer preferences, enabling data-driven decision-making to improve sales strategies and customer satisfaction.
 # Tools Used
 Microsoft Power BI
+# Note on Raw Data
+The raw data file for this project is too large to be included directly in this repository. Please access the file through my Kaggle page using the following link:https://www.kaggle.com/datasets/nduleonardc/car-sales-dataset. Access Raw Data on Kaggle. Thank you for your understanding!
