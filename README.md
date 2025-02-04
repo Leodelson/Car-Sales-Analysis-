@@ -18,40 +18,108 @@ The Car Sales Dashboard offers an in-depth analysis of sales performance and tre
 #### Average Commission Earned: $3K
 
 
-## Commission Earned by Salespersons
-### Top performers in terms of commission earned:
-#### Michael S.: $1.6M
-#### Michael J.: $1.2M
-#### James S.: $1.1M
-## Total Sales by Salesperson
-### Leading salespersons by total sales:
+# Top Salespersons Performance by Commission Earned
+![Top 10 Salespersons and Commission Earned](https://github.com/user-attachments/assets/ac94a047-963c-4a5e-977e-6ebd842e7cfc)
 
-#### Michael S.: $16M
-#### Michael J.: $11M
-#### James S.: $10M
-## Annual Sales Trends by Car Model
-The line graph reveals fluctuating sales trends over the year, highlighting key car models such as Altima, Civic, Corolla, F-150, and Silverado.
 
-## Customer Sales Summary
-### A detailed summary of customer purchases, including total sales, car model, make, average commission rate, and car year. Notable entries:
+Top Performers by Commission Earned
 
-#### Aaron Acevedo: $25,846 (Ford, 8.72%)
-#### Aaron Acosta: $16,185 (Civic, 5.11%)
-#### Aaron Adams: $35,315 (Altima, 14.87%)
+Michael Smith.: $1.57M
 
-# Key Findings
-### High Sales Performance: The dashboard indicates strong sales performance with substantial contributions from top-performing salespersons.
-### Sales Distribution: Significant sales are observed across different car models, with Silverado having a notable share.
-### Customer Engagement: Detailed insights into customer purchases reveal preferences for certain car models and manufacturers.
+Michael Johnson.: $1.25M
 
-# Insights into Sales Trends
-### Top Car Models: Models like Altima, Civic, and Silverado show consistent sales trends.
-### Salesperson Impact: High commissions and total sales figures highlight the importance of top-performing salespersons in driving overall sales.
-### Customer Preferences: Insights into customer purchase behavior and demographics can help tailor marketing strategies.
+James Smith.: $1.0M
 
-# Conclusion
-This dashboard provides a holistic view of car sales, integrating key performance metrics and customer data. It serves as a valuable tool for understanding sales trends, salesperson performance, and customer preferences, enabling data-driven decision-making to improve sales strategies and customer satisfaction.
-# Tools Used
+
+# Total Sales by Salesperson:
+![Total Sales by Salepersons](https://github.com/user-attachments/assets/f25c8ba7-616c-4717-9925-291f474a2c02)
+
+
+Top Performers by Total Sales:
+
+Michael Smith.: $16M
+Michael Johnson.: $12.5M
+James Smith.: $10.6M
+David Smith: $10.1M
+Michael Williams: $9.8M
+
+
+Annual Sales Trends by Car Model
+
+The sales trends chart indicates fluctuating sales patterns across the year.
+
+Key car models with consistently high sales include:
+
+Altima
+
+Civic
+
+Corolla
+
+F-150
+
+Silverado
+
+Sales Distribution by Car Model
+
+The highest-selling models by revenue contribution:
+
+Altima: $6bn (20.01%)
+
+Civic: $6bn (19.97%)
+
+These two models dominate the sales distribution and contribute significantly to total revenue.
+
+Customer Sales Summary
+
+Breakdown of customer purchases, including total sales, car model, and commission rates:
+
+Aaron Acevedo: $25,846 (Ford, 8.72%)
+
+Aaron Acosta: $16,185 (Civic, 5.11%)
+
+Aaron Adams: $35,315 (Altima, 14.87%)
+
+Key Findings
+
+Strong Sales Performance: The total sales amount of $31bn showcases a successful year for the company.
+
+Top Salespersons Drive Revenue: High-performing salespersons significantly impact revenue generation.
+
+Consistent Car Model Sales Trends: Models like Altima, Civic, and Silverado show steady sales over the year.
+
+Customer Engagement: Insights into customer purchases reveal patterns that can inform targeted marketing.
+
+High Commission Rates for Certain Models: Some car models generate higher commission earnings for salespersons.
+
+Recommendations
+
+1. Boost High-Performing Salespersons
+
+Invest in training and incentives to retain and further develop top sales talent.
+
+Encourage sharing of best practices among sales teams to boost overall performance.
+
+2. Focus on High-Performing Car Models
+
+Prioritize marketing and promotions around Altima, Civic, and Silverado due to their strong revenue contributions.
+
+Offer discounts or financing options for models with lower sales to increase traction.
+
+3. Enhance Customer Targeting
+
+Use customer purchase patterns to design personalized marketing strategies.
+
+Leverage commission rate insights to adjust sales strategies for higher profitability.
+
+Conclusion
+
+This analysis provides valuable insights into car sales performance, trends, and customer behavior. By leveraging this data, the company can optimize its sales strategies, focus on high-performing models, and enhance customer engagement to drive future growth.
+
+Tools Used
+
 Microsoft Power BI
-# Note on Raw Data
-The raw data file for this project is too large to be included directly in this repository. Please access the file through my Kaggle page using the following link:https://www.kaggle.com/datasets/nduleonardc/car-sales-dataset. Access Raw Data on Kaggle. Thank you for your understanding!
+
+End of Report
+
+
