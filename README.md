@@ -10,11 +10,14 @@ The Car Sales Dashboard offers an in-depth analysis of sales performance and tre
 # Key Insights
 ## Total Sales
 ### Overall Performance:
+![Car Sales Cards](https://github.com/user-attachments/assets/758becb7-c525-4a41-856b-f3e0f5c80715)
 
 #### Total Sales: $31bn
 #### Average Sales: $30K
 #### Number of Cars Sold: 1049K
 #### Average Commission Earned: $3K
+
+
 ## Commission Earned by Salespersons
 ### Top performers in terms of commission earned:
 #### Michael S.: $1.6M
