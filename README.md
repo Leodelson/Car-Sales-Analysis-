@@ -73,7 +73,7 @@ Corolla: $19.4M
 These two models dominate the sales distribution and contribute significantly to total revenue.
 
 
-Customer Sales Summary:
+# Customer Sales Summary:
 
 ![Customers Summary](https://github.com/user-attachments/assets/d43af90d-24f0-48c6-85b8-12d11a7f9016)
 
