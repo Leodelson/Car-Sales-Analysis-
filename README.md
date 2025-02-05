@@ -44,7 +44,8 @@ David Smith: $10.1M
 Michael Williams: $9.8M
 
 
-Annual Sales Trends by Car Model
+# Annual Sales Trends by Car Model
+![Annual Sales Trends by Car Model](https://github.com/user-attachments/assets/833ee8bc-844d-421a-8c6a-7c8a73d6eb6d)
 
 The sales trends chart indicates fluctuating sales patterns across the year.
 
@@ -64,13 +65,18 @@ Sales Distribution by Car Model
 
 The highest-selling models by revenue contribution:
 
-Altima: $6bn (20.01%)
+Altima: $20.1M
 
-Civic: $6bn (19.97%)
+Silverado: $20M 
+
+Corolla: $19.4M
 
 These two models dominate the sales distribution and contribute significantly to total revenue.
 
-Customer Sales Summary
+
+Customer Sales Summary:
+
+![Customers Summary](https://github.com/user-attachments/assets/d43af90d-24f0-48c6-85b8-12d11a7f9016)
 
 Breakdown of customer purchases, including total sales, car model, and commission rates:
 
@@ -80,7 +86,7 @@ Aaron Acosta: $16,185 (Civic, 5.11%)
 
 Aaron Adams: $35,315 (Altima, 14.87%)
 
-Key Findings
+## Key Findings:
 
 Strong Sales Performance: The total sales amount of $31bn showcases a successful year for the company.
 
@@ -92,7 +98,7 @@ Customer Engagement: Insights into customer purchases reveal patterns that can i
 
 High Commission Rates for Certain Models: Some car models generate higher commission earnings for salespersons.
 
-Recommendations
+## Recommendations:
 
 1. Boost High-Performing Salespersons
 
@@ -112,14 +118,12 @@ Use customer purchase patterns to design personalized marketing strategies.
 
 Leverage commission rate insights to adjust sales strategies for higher profitability.
 
-Conclusion
+## Conclusion
 
 This analysis provides valuable insights into car sales performance, trends, and customer behavior. By leveraging this data, the company can optimize its sales strategies, focus on high-performing models, and enhance customer engagement to drive future growth.
 
 Tools Used
 
 Microsoft Power BI
-
-End of Report
 
 
