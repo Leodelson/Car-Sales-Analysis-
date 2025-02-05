@@ -8,7 +8,6 @@ The Car Sales Dashboard offers an in-depth analysis of sales performance and tre
 #### Car Make: Insights into sales distribution by different car manufacturers.
 #### Car Model: Detailed sales trends by specific car models.
 # Key Insights
-## Total Sales
 ### Overall Performance:
 ![Car Sales Cards](https://github.com/user-attachments/assets/758becb7-c525-4a41-856b-f3e0f5c80715)
 
