@@ -1,5 +1,9 @@
 # Car Sales Analysis
 The Car Sales Dashboard offers an in-depth analysis of sales performance and trends across various car models and salespersons. It provides valuable insights into total sales, average sales, commissions earned, and annual sales trends. This analysis helps to understand the performance metrics and customer purchase behavior in the car sales industry.
+
+### Analyst: Leo
+### Date: 26/07/2024
+
 ## Dashboard Visualization
 ![Car Sales Dashboard ](https://github.com/user-attachments/assets/b591366a-e895-49d0-93c9-4cb928ff422e)
 
