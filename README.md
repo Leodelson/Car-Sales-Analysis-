@@ -1,4 +1,4 @@
-# Car Sales Analysis Dashboard:
+# Car Sales Analysis Insights:
 
 The Car Sales Dashboard provides a comprehensive overview of sales performance across car models, salespersons, and customer purchase behavior. It highlights key financial metrics such as total sales, commissions, car model trends, and annual performance insights.
 
